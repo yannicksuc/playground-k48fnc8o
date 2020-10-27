@@ -11,6 +11,12 @@ The source code is on [GitHub](https://github.com/TechDotIO/php-template), pleas
 
 Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
 
+# Exercice 1
+
+@[Remplis le tabelau avec des entiers?]({"stubs": ["Ex01.php"], "command": "/usr/bin/php Ex01Test.php"})
+
+Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/php-template/blob/master/markdowns/welcome.md)  

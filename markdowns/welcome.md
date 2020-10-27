@@ -13,7 +13,7 @@ Check out the markdown file [`welcome.md`]() to see how this exercise is injecte
 
 # Exercice 1
 
-@[Remplis le tabelau avec des entiers?]({"stubs": ["Ex01.php"], "command": "/usr/bin/php Ex01Test.php"})
+@[Remplis le tabelau avec des entiers?]({"stubs": ["Ex01.php"], "command": "php Ex01Test.php"})
 
 Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
 

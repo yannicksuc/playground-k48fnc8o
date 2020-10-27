@@ -1,5 +1,5 @@
 <?php
-include 'Ex01.php';
+require('Ex01.php');
 global $numbers;
 function test() {
     sort($numbers);

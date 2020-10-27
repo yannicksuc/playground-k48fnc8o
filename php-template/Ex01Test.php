@@ -4,7 +4,7 @@ global $numbers;
 function test() {
     sort($numbers);
     if ($numbers == [42, 12, 78]) {
-
+        echo("TECHIO> ".$numbers);
         echo("TECHIO> success true \r\n");
     }
     else {
